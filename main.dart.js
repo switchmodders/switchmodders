@@ -52752,7 +52752,7 @@ F.pF.prototype={
 aO:function(){return new F.E8(C.l)}}
 F.E8.prototype={
 GP:function(){var s=$.a2q(),r=t.z,q=P.aP(["stem",s.a,"bottom",s.c,"full",s.d,"top",s.b],r,r)
-return B.a7c(new F.Y0(this),G.amP(P.oe("http://switchmodders-backend.herokuapp.com/"),C.aO.E7(q,null)),t.eU)},
+return B.a7c(new F.Y0(this),G.amP(P.oe("https://switchmodders-backend.herokuapp.com/"),C.aO.E7(q,null)),t.eU)},
 U:function(a,b){return new A.qT(new F.XZ(this),null)}}
 F.Y0.prototype={
 $2:function(a,b){var s,r,q="don't mind this lmao",p=b.b
