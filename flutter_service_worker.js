@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "435f654e07d400c06a3cd307652a6bf4",
+  "main.dart.js": "7d4a953a985535e3851cb01d52a841bb",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 ".git/config": "c0e6ec4ecb385834139fe06c4b60490e",
@@ -56,8 +56,8 @@ const RESOURCES = {
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"index.html": "5a554574adb7a0282805481a1e67b424",
-"/": "5a554574adb7a0282805481a1e67b424",
+"index.html": "72a36474abcde0d5d37be6480c3602f8",
+"/": "72a36474abcde0d5d37be6480c3602f8",
 "version.json": "1b12bec9288eb61199663ee15cdc5974",
 "springs.html": "e6a0d8d6e9c75e7d26993835e78494bb",
 "LICENSE": "738f9afc37551c5a150925dbf0e88daa",
