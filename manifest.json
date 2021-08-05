@@ -1,11 +1,11 @@
 {
-    "name": "switchmodders",
-    "short_name": "switchmodders",
+    "name": "Switch Modders",
+    "short_name": "Switch Modders",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Switch Modders recipe site",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
